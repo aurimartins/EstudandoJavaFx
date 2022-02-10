@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+D:\1_AURI\Curso_Java_NélioAlves\ws-javafx\.metadata\.plugins\org.eclipse.jdt.core
+2621489828.index
+1396083005.index
+4217400958.index
+691982490.index
+2942859002.index
+1865797976.index
+2281939607.index
+538872892.index
+4198007376.index
+1610058184.index
+1582285370.index
